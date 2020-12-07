@@ -1,0 +1,3 @@
+C:/Users/nivb1/CLionProjects/copterfix-sort/cpp-sorting/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nivb1/CLionProjects/copterfix-sort/cpp-sorting/cmake-build-debug/CMakeFiles/copterfix_sort.dir
+C:/Users/nivb1/CLionProjects/copterfix-sort/cpp-sorting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
